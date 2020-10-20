@@ -1,0 +1,1 @@
+WEATHER_API_KEY=api.openweathermap.org/data/2.5/weather?lat={37.2406}&lon={127.1786}&appid={4e8cffa405c4dcca60f25a827c3eb168}
